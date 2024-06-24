@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2024-06-22T22:09:05.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="yyGv2SgtrUqF-nBfbgw8" version="24.6.2" type="device">
+  <diagram name="第 1 页" id="DqQ0XxW-qs2kOgKan0tj">
+    <mxGraphModel dx="704" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dT6yzqBDpKPo6WeQEByV-2" value="网络分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
